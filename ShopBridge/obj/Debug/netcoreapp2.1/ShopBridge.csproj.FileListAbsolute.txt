@@ -1,0 +1,17 @@
+D:\Projects\Learn\EntityFramework\ShopBridge\ShopBridge\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Projects\Learn\EntityFramework\ShopBridge\ShopBridge\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Projects\Learn\EntityFramework\ShopBridge\ShopBridge\bin\Debug\netcoreapp2.1\ShopBridge.deps.json
+D:\Projects\Learn\EntityFramework\ShopBridge\ShopBridge\bin\Debug\netcoreapp2.1\ShopBridge.runtimeconfig.json
+D:\Projects\Learn\EntityFramework\ShopBridge\ShopBridge\bin\Debug\netcoreapp2.1\ShopBridge.runtimeconfig.dev.json
+D:\Projects\Learn\EntityFramework\ShopBridge\ShopBridge\bin\Debug\netcoreapp2.1\ShopBridge.dll
+D:\Projects\Learn\EntityFramework\ShopBridge\ShopBridge\bin\Debug\netcoreapp2.1\ShopBridge.pdb
+D:\Projects\Learn\EntityFramework\ShopBridge\ShopBridge\obj\Debug\netcoreapp2.1\ShopBridge.csprojAssemblyReference.cache
+D:\Projects\Learn\EntityFramework\ShopBridge\ShopBridge\obj\Debug\netcoreapp2.1\ShopBridge.AssemblyInfoInputs.cache
+D:\Projects\Learn\EntityFramework\ShopBridge\ShopBridge\obj\Debug\netcoreapp2.1\ShopBridge.AssemblyInfo.cs
+D:\Projects\Learn\EntityFramework\ShopBridge\ShopBridge\obj\Debug\netcoreapp2.1\ShopBridge.csproj.CoreCompileInputs.cache
+D:\Projects\Learn\EntityFramework\ShopBridge\ShopBridge\obj\Debug\netcoreapp2.1\ShopBridge.RazorAssemblyInfo.cache
+D:\Projects\Learn\EntityFramework\ShopBridge\ShopBridge\obj\Debug\netcoreapp2.1\ShopBridge.RazorAssemblyInfo.cs
+D:\Projects\Learn\EntityFramework\ShopBridge\ShopBridge\obj\Debug\netcoreapp2.1\ShopBridge.RazorTargetAssemblyInfo.cache
+D:\Projects\Learn\EntityFramework\ShopBridge\ShopBridge\obj\Debug\netcoreapp2.1\ShopBridge.dll
+D:\Projects\Learn\EntityFramework\ShopBridge\ShopBridge\obj\Debug\netcoreapp2.1\ShopBridge.pdb
+D:\Projects\Learn\EntityFramework\ShopBridge\ShopBridge\obj\Debug\netcoreapp2.1\ShopBridge.genruntimeconfig.cache
